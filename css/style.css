@@ -1,0 +1,13 @@
+.btn-color{
+    background-color: #E76F51;
+}
+.text-color, .btn-outline{ 
+    color: #E76F51;
+}
+    
+.header-bg{
+    background-color: #264653;
+}
+.rating-icon{
+    width:20px;
+}
